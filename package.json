@@ -18,7 +18,7 @@
     "version:major": "npm version --new-version major",
     "version:minor": "npm version --new-version minor",
     "version:patch": "npm version --new-version patch",
-    "publish": "npm publish --access public"
+    "publish:npm": "npm publish --access public"
   },
   "author": "arubaya",
   "license": "MIT",
