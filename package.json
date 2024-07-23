@@ -1,5 +1,5 @@
 {
-  "name": "ts-library-base-project",
+  "name": "@arubaya/ts-library-base-project",
   "version": "0.0.1",
   "description": "Typescript library base project",
   "main": "dist/cjs/index.js",
@@ -17,7 +17,8 @@
     "build": "rollup -c --bundleConfigAsCjs",
     "version:major": "npm version --new-version major",
     "version:minor": "npm version --new-version minor",
-    "version:patch": "npm version --new-version patch"
+    "version:patch": "npm version --new-version patch",
+    "publish": "npm publish --access public"
   },
   "author": "arubaya",
   "license": "MIT",
