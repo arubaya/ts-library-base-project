@@ -1,6 +1,6 @@
 {
   "name": "@arubaya/ts-library-base-project",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Typescript library base project",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
