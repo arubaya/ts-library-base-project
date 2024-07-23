@@ -1,6 +1,6 @@
-# JS Library Base Project
+# TS Library Base Project
 
-This repository contains a project base for creating javascript libraries.
+This repository contains a project base for creating Typescript libraries.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ This repository contains a project base for creating javascript libraries.
 
 ## Installation
 
-To install Javascript Library Base Project in your project, you need to follow these steps:
+To install Typescript Library Base Project in your project, you need to follow these steps:
 
 1. Clone the repository:
 
@@ -32,7 +32,7 @@ To install Javascript Library Base Project in your project, you need to follow t
 
 ## Usage
 
-To use Javascript Library Base Project in your application, you can import the necessary components and hooks provided by the library.
+To use Typescript Library Base Project in your application, you can import the necessary components and hooks provided by the library.
 
 ## Build
 
@@ -56,7 +56,7 @@ npm run test
 
 MIT License
 
-Copyright (c) 2024 Tsabit Arubaya
+Copyright (c) 2024
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -5,7 +5,7 @@
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
-  "repository": "",
+  "repository": "https://github.com/arubaya/ts-library-base-project.git",
   "files": [
     "dist",
     "README.md",
