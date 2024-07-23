@@ -16,7 +16,7 @@ To install Javascript Library Base Project in your project, you need to follow t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/oxford.git
+   git clone https://github.com/arubaya/ts-library-base-project.git
    ```
 
 2. Navigate to the project directory:
